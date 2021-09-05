@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Submit XNow Presentation">c3aa99c72fd2b0105a445e492799b6d5</sc_cat_item>
+        <sc_catalog display_value="xNow Catalog">406a91c72fd2b0105a445e492799b6bb</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 10:12:41</sys_created_on>
+        <sys_id>ca0b910b2fd2b0105a445e492799b689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>xNow Catalog.Submit XNow Presentation</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ca0b910b2fd2b0105a445e492799b689</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 10:12:41</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</application>
+        <file_path/>
+        <instance_id>1fc7df5adbba53007e55d5b0cf96195a</instance_id>
+        <instance_name>dev62197</instance_name>
+        <name>sc_cat_item_catalog_ca0b910b2fd2b0105a445e492799b689</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Submit XNow Presentation">c3aa99c72fd2b0105a445e492799b6d5</sc_cat_item><sc_catalog display_value="xNow Catalog">406a91c72fd2b0105a445e492799b6bb</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2021-09-04 10:12:41</sys_created_on><sys_id>ca0b910b2fd2b0105a445e492799b689</sys_id><sys_mod_count>0</sys_mod_count><sys_name>xNow Catalog.Submit XNow Presentation</sys_name><sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package><sys_policy/><sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope><sys_update_name>sc_cat_item_catalog_ca0b910b2fd2b0105a445e492799b689</sys_update_name><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2021-09-04 10:12:41</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1233860467</payload_hash>
+        <record_name>xNow Catalog.Submit XNow Presentation</record_name>
+        <reverted_from/>
+        <source>7891dd752f5274105a445e492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 10:12:41</sys_created_on>
+        <sys_id>c60b910b2fd2b0105a445e492799b699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bb04bc6560000001</sys_recorded_at>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 10:12:41</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>460b910be5d2b0103cddc035b252d48c</update_guid>
+        <update_guid_history>460b910be5d2b0103cddc035b252d48c:1233860467</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="xNow Catalog.Submit XNow Presentation">494bd50b2fd2b0105a445e492799b679</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 10:13:42</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>04224f62d01440709ee739ccaad90c40</sys_id>
+        <sys_metadata>ca0b910b2fd2b0105a445e492799b689</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>xNow Catalog.Submit XNow Presentation</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_parent display_value="">c3aa99c72fd2b0105a445e492799b6d5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_scope_delete display_value="">0526cbeef05e4fb5802afdea55db8171</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_ca0b910b2fd2b0105a445e492799b689</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_ca0b910b2fd2b0105a445e492799b689">c60b910b2fd2b0105a445e492799b699</sys_update_version>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 10:13:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

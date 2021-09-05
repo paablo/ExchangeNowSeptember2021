@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Update a Business Application">80192b562f9630105a445e492799b60a</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 08:17:19</sys_created_on>
+        <sys_id>00a085072f52b0105a445e492799b6ec</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Update Business Application.Update a Business Application</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_update_name>io_set_item_00a085072f52b0105a445e492799b6ec</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 08:17:19</sys_updated_on>
+        <variable_set display_value="Update Business Application">f59085072f52b0105a445e492799b631</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</application>
+        <file_path/>
+        <instance_id>1fc7df5adbba53007e55d5b0cf96195a</instance_id>
+        <instance_name>dev62197</instance_name>
+        <name>io_set_item_00a085072f52b0105a445e492799b6ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Update a Business Application">80192b562f9630105a445e492799b60a</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2021-09-04 08:17:19</sys_created_on><sys_id>00a085072f52b0105a445e492799b6ec</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Update Business Application.Update a Business Application</sys_name><sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package><sys_policy/><sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope><sys_update_name>io_set_item_00a085072f52b0105a445e492799b6ec</sys_update_name><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2021-09-04 08:17:19</sys_updated_on><variable_set display_value="Update Business Application">f59085072f52b0105a445e492799b631</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-775667470</payload_hash>
+        <record_name>Update Business Application.Update a Business Application</record_name>
+        <reverted_from/>
+        <source>7891dd752f5274105a445e492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 08:17:20</sys_created_on>
+        <sys_id>58a0c5072f52b0105a445e492799b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bafe22ce30000001</sys_recorded_at>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 08:17:20</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>50a0c5078852b0103752d33e06ac0405</update_guid>
+        <update_guid_history>50a0c5078852b0103752d33e06ac0405:-775667470</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Update Business Application.Update a Business Application">b5d00d072f52b0105a445e492799b642</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 08:18:15</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>005233a4eaaa40ad803a90b3205ef511</sys_id>
+        <sys_metadata>00a085072f52b0105a445e492799b6ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Business Application.Update a Business Application</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_scope_delete display_value="">0526cbeef05e4fb5802afdea55db8171</sys_scope_delete>
+        <sys_update_name>io_set_item_00a085072f52b0105a445e492799b6ec</sys_update_name>
+        <sys_update_version display_value="io_set_item_00a085072f52b0105a445e492799b6ec">58a0c5072f52b0105a445e492799b605</sys_update_version>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 08:18:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

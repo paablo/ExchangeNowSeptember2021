@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Government ID Check (Attachment Variables)">de125d792f5674105a445e492799b6f4</catalog_item>
+        <catalog_variable>IO:959311f92f5674105a445e492799b685</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-01 11:12:52</sys_created_on>
+        <sys_id>b00c864a2fdab4105a445e492799b6df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>primary_id</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_b00c864a2fdab4105a445e492799b6df</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-01 11:12:52</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Always mandatory">c4fb464a2fdab4105a445e492799b671</ui_policy>
+        <variable>primary_id</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

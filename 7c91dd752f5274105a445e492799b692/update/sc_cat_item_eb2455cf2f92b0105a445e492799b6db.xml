@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Update xNOW Application Service</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="Paul Morris">b611ef19db5d8010f0a2f2823996196d</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=eb2455cf2f92b0105a445e492799b6db&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method>submit</request_method>
+        <roles>snc_internal</roles>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 09:42:45</sys_created_on>
+        <sys_id>eb2455cf2f92b0105a445e492799b6db</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Update xNOW Application Service</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_update_name>sc_cat_item_eb2455cf2f92b0105a445e492799b6db</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 09:43:08</sys_updated_on>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+        <x_295070_req2ritm_redirect>false</x_295070_req2ritm_redirect>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=eb2455cf2f92b0105a445e492799b6db"/>
+    <fx_price action="delete_multiple" query="id=eb2455cf2f92b0105a445e492799b6db"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>eb2455cf2f92b0105a445e492799b6db</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 09:42:45</sys_created_on>
+        <sys_id>2f2455cf2f92b0105a445e492799b6dc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 09:42:47</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>eb2455cf2f92b0105a445e492799b6db</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 09:42:45</sys_created_on>
+        <sys_id>2f2455cf2f92b0105a445e492799b6dd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 09:42:47</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#12395e</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>picture</file_name>
+        <hash>dd6e9773ab66f9402aa8a118a88dfda326baeb299fe959a9ac3053e7c7b6fc17</hash>
+        <image_height>128</image_height>
+        <image_width>128</image_width>
+        <size_bytes>2396</size_bytes>
+        <size_compressed>2378</size_compressed>
+        <state>available</state>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 09:42:46</sys_created_on>
+        <sys_id>f324d5cf2f92b0105a445e492799b648</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 09:42:46</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>eb2455cf2f92b0105a445e492799b6db</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="f324d5cf2f92b0105a445e492799b648">f324d5cf2f92b0105a445e492799b648</sys_attachment>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 09:42:46</sys_created_on>
+        <sys_id>bb24d5cf2f92b0105a445e492799b649</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3160</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="f324d5cf2f92b0105a445e492799b648">f324d5cf2f92b0105a445e492799b648</sys_attachment>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 09:42:46</sys_created_on>
+        <sys_id>3324d5cf2f92b0105a445e492799b64a</sys_id>
+    </sys_attachment_doc>
+</record_update>

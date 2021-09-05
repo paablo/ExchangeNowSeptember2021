@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Government ID Check (Attachment Variables)">de125d792f5674105a445e492799b6f4</catalog_item>
+        <catalog_variable>IO:231b4ac62fdab4105a445e492799b621</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-01 11:13:00</sys_created_on>
+        <sys_id>181c8ec62fdab4105a445e492799b6fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>primary</sys_name>
+        <sys_package display_value="GovermentIDCheck" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GovermentIDCheck">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_181c8ec62fdab4105a445e492799b6fb</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-01 11:13:00</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Always mandatory">c4fb464a2fdab4105a445e492799b671</ui_policy>
+        <variable>primary</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</application>
+        <file_path/>
+        <instance_id>1fc7df5adbba53007e55d5b0cf96195a</instance_id>
+        <instance_name>dev62197</instance_name>
+        <name>catalog_ui_policy_action_181c8ec62fdab4105a445e492799b6fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Government ID Check (Attachment Variables)">de125d792f5674105a445e492799b6f4</catalog_item><catalog_variable>IO:231b4ac62fdab4105a445e492799b621</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2021-09-01 11:13:00</sys_created_on><sys_id>181c8ec62fdab4105a445e492799b6fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>primary</sys_name><sys_package display_value="GovermentIDCheck" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package><sys_policy/><sys_scope display_value="GovermentIDCheck">7c91dd752f5274105a445e492799b692</sys_scope><sys_update_name>catalog_ui_policy_action_181c8ec62fdab4105a445e492799b6fb</sys_update_name><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2021-09-01 11:13:00</sys_updated_on><table/><ui_policy display_value="Always mandatory">c4fb464a2fdab4105a445e492799b671</ui_policy><variable>primary</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1669719954</payload_hash>
+        <record_name>primary</record_name>
+        <reverted_from/>
+        <source>7891dd752f5274105a445e492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-01 11:13:00</sys_created_on>
+        <sys_id>581c0a4a2fdab4105a445e492799b628</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ba10fed480000001</sys_recorded_at>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-01 11:13:00</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>501c0a4ab0dab410af29744dd622fd28</update_guid>
+        <update_guid_history>501c0a4ab0dab410af29744dd622fd28:-1669719954</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="primary">421212422f1eb4105a445e492799b609</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-01 11:39:20</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>024e34b691c943b0801b2199eb4bba89</sys_id>
+        <sys_metadata>181c8ec62fdab4105a445e492799b6fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>primary</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_scope_delete display_value="">0526cbeef05e4fb5802afdea55db8171</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_181c8ec62fdab4105a445e492799b6fb</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_181c8ec62fdab4105a445e492799b6fb">581c0a4a2fdab4105a445e492799b628</sys_update_version>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-01 11:39:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

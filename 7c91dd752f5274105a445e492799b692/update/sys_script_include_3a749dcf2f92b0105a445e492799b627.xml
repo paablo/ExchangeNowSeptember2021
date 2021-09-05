@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_43553_govermenti.AjaxXnow</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>AjaxXnow</name>
+        <script><![CDATA[var AjaxXnow = Class.create();
+AjaxXnow.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	getXnowApp: function() {
+		var sysid = this.getParameter('sysparm_sysid');
+		var xNowData = this._getXnowApp(sysid);
+		
+		return JSON.stringify(xNowData);
+	},
+	
+	_getXnowApp: function(sysid) {
+		
+		var xNowData = {
+			sys_id: "-1",
+			owned_by: {value:'', display:''},
+			version: {value:'', display:''},
+			comments: {value:'', display:''},
+			support_group: {value:'', display:''},
+			managed_by: {value:'', display:''}
+		};
+		
+		var grXnowAppService = new GlideRecord('x_43553_govermenti_xnow_application_service');
+		if (grXnowAppService.get(sysid) && grXnowAppService.canRead() ) {
+			xNowData.sys_id = grXnowAppService.getValue('sys_id');
+			xNowData.owned_by.value = grXnowAppService.getValue('owned_by');
+			xNowData.version.value = grXnowAppService.getValue('version');
+			xNowData.comments.value = grXnowAppService.getValue('comments');
+			xNowData.support_group.value = grXnowAppService.getValue('support_group');
+			xNowData.managed_by.value = grXnowAppService.getValue('managed_by');
+			
+			// Return display values to prevent round trip
+			xNowData.owned_by.display = grXnowAppService.getDisplayValue('owned_by');
+			xNowData.version.display = grXnowAppService.getDisplayValue('version');
+			xNowData.comments.display = grXnowAppService.getDisplayValue('comments');
+			xNowData.support_group.display = grXnowAppService.getDisplayValue('support_group');
+			xNowData.managed_by.display = grXnowAppService.getDisplayValue('managed_by');
+		}
+		
+		return xNowData;
+	},
+	
+    type: 'AjaxXnow'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 09:44:20</sys_created_on>
+        <sys_id>3a749dcf2f92b0105a445e492799b627</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>AjaxXnow</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_update_name>sys_script_include_3a749dcf2f92b0105a445e492799b627</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-04 10:08:43</sys_updated_on>
+    </sys_script_include>
+</record_update>
