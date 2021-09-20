@@ -4,7 +4,7 @@
         <active>true</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
-        <category/>
+        <category display_value="Other">943454942f7e70505a445e492799b649</category>
         <checked_out/>
         <cost>0</cost>
         <custom_cart/>
@@ -51,11 +51,11 @@
         <recurring_price>0</recurring_price>
         <request_method>submit</request_method>
         <roles>snc_internal</roles>
-        <sc_catalogs/>
+        <sc_catalogs>406a91c72fd2b0105a445e492799b6bb</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
-        <short_description>Copy of Request access to a Shared Mailbox to read and send emails</short_description>
+        <short_description>Request access to a Shared Mailbox to read and send emails</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -63,14 +63,15 @@
         <sys_created_by>paul.morris</sys_created_by>
         <sys_created_on>2021-09-04 08:38:33</sys_created_on>
         <sys_id>93754d4b2f52b0105a445e492799b6e5</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Access Shared Mailbox (Delegated Request)</sys_name>
         <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
         <sys_policy/>
         <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
         <sys_update_name>sc_cat_item_93754d4b2f52b0105a445e492799b6e5</sys_update_name>
         <sys_updated_by>paul.morris</sys_updated_by>
-        <sys_updated_on>2021-09-04 08:42:55</sys_updated_on>
+        <sys_updated_on>2021-09-20 12:34:55</sys_updated_on>
+        <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>

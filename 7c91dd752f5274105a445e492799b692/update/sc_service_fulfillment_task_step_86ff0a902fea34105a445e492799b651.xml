@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_service_fulfillment_task_step">
+    <sc_service_fulfillment_task_step action="INSERT_OR_UPDATE">
+        <assigned_group display_value="Network Support" name="Network Support">0df0c400c322310015519f2974d3ae23</assigned_group>
+        <assigned_to/>
+        <description>Do task 1</description>
+        <include_variables>all</include_variables>
+        <priority/>
+        <service_fulfillment_stage display_value="">8010d2d02fea34105a445e492799b670</service_fulfillment_stage>
+        <service_fulfillment_step_configuration display_value="Task">dc0f364873122010ae42d31ee2f6a7f3</service_fulfillment_step_configuration>
+        <short_description>Task 1</short_description>
+        <sys_class_name>sc_service_fulfillment_task_step</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-08 11:16:48</sys_created_on>
+        <sys_id>86ff0a902fea34105a445e492799b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task 1</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_update_name>sc_service_fulfillment_task_step_86ff0a902fea34105a445e492799b651</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-08 11:16:48</sys_updated_on>
+        <title>Task 1</title>
+    </sc_service_fulfillment_task_step>
+</record_update>
