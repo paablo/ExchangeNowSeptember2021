@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_dl_definition">
+    <catalog_dl_definition action="DELETE">
+        <active>false</active>
+        <applies_to>item</applies_to>
+        <catalog_item display_value="Update xNOW Application Service (Catalog Lookup)">fa21cd072f52b0105a445e492799b6f4</catalog_item>
+        <matcher_table>x_43553_govermenti_xnow_application_service</matcher_table>
+        <name>Lookup xNow App Service</name>
+        <run_on_form_change>true</run_on_form_change>
+        <run_on_insert>true</run_on_insert>
+        <run_on_update>false</run_on_update>
+        <source_table/>
+        <sys_class_name>catalog_dl_definition</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 09:42:46</sys_created_on>
+        <sys_id>3724d5cf2f92b0105a445e492799b64a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Lookup xNow App Service</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_update_name>catalog_dl_definition_3724d5cf2f92b0105a445e492799b64a</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-22 11:11:02</sys_updated_on>
+        <variable_set/>
+    </catalog_dl_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</application>
+        <file_path/>
+        <instance_id>1fc7df5adbba53007e55d5b0cf96195a</instance_id>
+        <instance_name>dev62197</instance_name>
+        <name>catalog_dl_definition_3724d5cf2f92b0105a445e492799b64a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_dl_definition"><catalog_dl_definition action="INSERT_OR_UPDATE"><active>false</active><applies_to>item</applies_to><catalog_item display_value="Update xNOW Application Service (Catalog Lookup)">fa21cd072f52b0105a445e492799b6f4</catalog_item><matcher_table>x_43553_govermenti_xnow_application_service</matcher_table><name>Lookup xNow App Service</name><run_on_form_change>true</run_on_form_change><run_on_insert>true</run_on_insert><run_on_update>false</run_on_update><source_table/><sys_class_name>catalog_dl_definition</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2021-09-04 09:42:46</sys_created_on><sys_id>3724d5cf2f92b0105a445e492799b64a</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Lookup xNow App Service</sys_name><sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package><sys_policy/><sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope><sys_update_name>catalog_dl_definition_3724d5cf2f92b0105a445e492799b64a</sys_update_name><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2021-09-22 11:11:02</sys_updated_on><variable_set/></catalog_dl_definition></record_update>]]></payload>
+        <payload_hash>-1611026336</payload_hash>
+        <record_name>Lookup xNow App Service</record_name>
+        <reverted_from/>
+        <source>086e01932f1230105a445e492799b620</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-22 11:11:02</sys_created_on>
+        <sys_id>18051e382fbe70105a445e492799b6bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c0d33ad1f0000001</sys_recorded_at>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-22 11:11:02</sys_updated_on>
+        <type>Catalog Data Lookup Definitions</type>
+        <update_guid>9c051e3858be70106a0c02010c68dabe</update_guid>
+        <update_guid_history>9c051e3858be70106a0c02010c68dabe:-1611026336,6313e0781c3270108f46cedbbeb87e32:1721128809,7f24d5cf1292b010226bb509cfae8a4b:-1011773217</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Lookup xNow App Service">7c2592b82fbe70105a445e492799b6ac</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-22 11:11:38</sys_created_on>
+        <sys_db_object display_value="" name="catalog_dl_definition">catalog_dl_definition</sys_db_object>
+        <sys_id>71a46997218e446081df8480ba708e71</sys_id>
+        <sys_metadata>3724d5cf2f92b0105a445e492799b64a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lookup xNow App Service</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_scope_delete display_value="">0526cbeef05e4fb5802afdea55db8171</sys_scope_delete>
+        <sys_update_name>catalog_dl_definition_3724d5cf2f92b0105a445e492799b64a</sys_update_name>
+        <sys_update_version display_value="catalog_dl_definition_3724d5cf2f92b0105a445e492799b64a">18051e382fbe70105a445e492799b6bf</sys_update_version>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-22 11:11:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

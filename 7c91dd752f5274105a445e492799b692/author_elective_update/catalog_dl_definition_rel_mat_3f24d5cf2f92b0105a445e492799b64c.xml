@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_dl_definition_rel_mat">
+    <catalog_dl_definition_rel_mat action="DELETE">
+        <applies_to>item</applies_to>
+        <catalog_item display_value="Update xNOW Application Service (Catalog Lookup)">fa21cd072f52b0105a445e492799b6f4</catalog_item>
+        <dl_definition display_value="Lookup xNow App Service">3724d5cf2f92b0105a445e492799b64a</dl_definition>
+        <exact_match>true</exact_match>
+        <matcher_table>x_43553_govermenti_xnow_application_service</matcher_table>
+        <matcher_table_field>sys_id</matcher_table_field>
+        <source_catalog_variable>IO:null</source_catalog_variable>
+        <source_table/>
+        <source_table_field/>
+        <source_variable>business_application</source_variable>
+        <sys_class_name>catalog_dl_definition_rel_mat</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-04 09:42:46</sys_created_on>
+        <sys_id>3f24d5cf2f92b0105a445e492799b64c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>IO:null</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_update_name>catalog_dl_definition_rel_mat_3f24d5cf2f92b0105a445e492799b64c</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-22 11:09:00</sys_updated_on>
+        <variable_set/>
+    </catalog_dl_definition_rel_mat>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</application>
+        <file_path/>
+        <instance_id>1fc7df5adbba53007e55d5b0cf96195a</instance_id>
+        <instance_name>dev62197</instance_name>
+        <name>catalog_dl_definition_rel_mat_3f24d5cf2f92b0105a445e492799b64c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_dl_definition_rel_mat"><catalog_dl_definition_rel_mat action="INSERT_OR_UPDATE"><applies_to>item</applies_to><catalog_item display_value="Update xNOW Application Service (Catalog Lookup)">fa21cd072f52b0105a445e492799b6f4</catalog_item><dl_definition display_value="Lookup xNow App Service">3724d5cf2f92b0105a445e492799b64a</dl_definition><exact_match>true</exact_match><matcher_table>x_43553_govermenti_xnow_application_service</matcher_table><matcher_table_field>sys_id</matcher_table_field><source_catalog_variable>IO:null</source_catalog_variable><source_table/><source_table_field/><source_variable>business_application</source_variable><sys_class_name>catalog_dl_definition_rel_mat</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2021-09-04 09:42:46</sys_created_on><sys_id>3f24d5cf2f92b0105a445e492799b64c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>IO:null</sys_name><sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package><sys_policy/><sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope><sys_update_name>catalog_dl_definition_rel_mat_3f24d5cf2f92b0105a445e492799b64c</sys_update_name><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2021-09-22 11:09:00</sys_updated_on><variable_set/></catalog_dl_definition_rel_mat></record_update>]]></payload>
+        <payload_hash>1827398810</payload_hash>
+        <record_name>IO:null</record_name>
+        <reverted_from/>
+        <source>086e01932f1230105a445e492799b620</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-22 11:09:01</sys_created_on>
+        <sys_id>ea841e382fbe70105a445e492799b6b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c0d31d0e90000001</sys_recorded_at>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-22 11:09:01</sys_updated_on>
+        <type>Catalog Matcher Variable Definitions</type>
+        <update_guid>ee841e38e4be7010e9357e4c4e0f48b5</update_guid>
+        <update_guid_history>ee841e38e4be7010e9357e4c4e0f48b5:1827398810,d7132078343270107060be39b77ab4fb:-435797165,3724d5cf3d92b010fdd0a20e2ace304f:-395781815</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="IO:null">ac251e782fbe70105a445e492799b66d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2021-09-22 11:11:36</sys_created_on>
+        <sys_db_object display_value="" name="catalog_dl_definition_rel_mat">catalog_dl_definition_rel_mat</sys_db_object>
+        <sys_id>6b567d5fda9b4a9ab62311c85093c924</sys_id>
+        <sys_metadata>3f24d5cf2f92b0105a445e492799b64c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IO:null</sys_name>
+        <sys_package display_value="ExchangeNowDemo" source="x_43553_govermenti">7c91dd752f5274105a445e492799b692</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ExchangeNowDemo">7c91dd752f5274105a445e492799b692</sys_scope>
+        <sys_scope_delete display_value="">0526cbeef05e4fb5802afdea55db8171</sys_scope_delete>
+        <sys_update_name>catalog_dl_definition_rel_mat_3f24d5cf2f92b0105a445e492799b64c</sys_update_name>
+        <sys_update_version display_value="catalog_dl_definition_rel_mat_3f24d5cf2f92b0105a445e492799b64c">ea841e382fbe70105a445e492799b6b6</sys_update_version>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2021-09-22 11:11:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
